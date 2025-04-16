@@ -1,3 +1,4 @@
+
 # Importación de Librerías
 import numpy as np 
 import pandas as pd 
@@ -12,6 +13,6 @@ import re
 
 
 
-%matplotlib inline
+matplotlib inline
 pd.set_option('display.max_columns', 30)
 plt.rcParams['figure.figsize'] = [12.0, 8.0]
